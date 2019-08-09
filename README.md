@@ -366,7 +366,9 @@ Logistics Regression is statistcal model uses logistics function to model data t
 
 **The Respond Function**
 
-$E\\{deathrate\\} = \\frac{exp(X\\beta)}{1 + exp(X\\beta)}$
+$E\{deathrate\} = \frac{exp(X\beta)}{1 + exp(X\beta)}$
+
+$\frac{n!}{k!(n-k)!}$
 
 Where:
 
