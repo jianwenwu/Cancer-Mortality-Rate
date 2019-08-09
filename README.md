@@ -1,6 +1,6 @@
 Thesis: Cancer Mortality Rate of each County in the United States
 ================
-This is Introduction for my project on predicting Cancer Mortality Rate. For the whole report, please go to ...
+This is brief introduction for my project on predicting Cancer Mortality Rate. For reading whole report, please go to file "report" above.
 
 ### 1. INTRODUCTION
 
