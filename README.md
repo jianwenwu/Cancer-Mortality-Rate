@@ -311,7 +311,7 @@ where:
 
 -   *β* = regression coefficients
 
--   *e*<sub>*i*</sub> = error term for *i*<sub>*t**h*</sub> value
+-   *e*<sub>*i*</sub> = error term for *i*<sub>*th*</sub> value
 
 In Poisson regression, we assumed that the *V**a**r*{*Y*}=*E*{*Y*}. In our case, we know that the expect value of Y(Mortality Rate) is 178 and variance of Y(Mortality Rate) is 792. In other words, variance of Y(Mortality Rate) is greater than expect value of Y(Mortality Rate). It is clearly showed that it violated the assumption of the poisson regression and it is Overdispersion. Overdispersion happened when variance of Y is greater than expect value of Y. However, we have not considered any covariates yet. There, we performed a overdispersion test using R package `AER`.
 
