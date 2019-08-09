@@ -40,7 +40,7 @@ We used the following model to fit the data:
 
 **Key Note** - For scaled poisson regression and logistics regression, we rounded our target variable deathrate(mortality rate) into whole number. For example, we converted deathrate 164.9 for Kitsap County, Washington into 165. The reason is these two model only works with whole number.
 
-**Target Variable DeathRate ** - Mean per capita (100,000) cancer mortalities(a)
+**Target Variable DeathRate** - Mean per capita (100,000) cancer mortalities(a)
 
 ##### 3.1 Variables Selection
 
