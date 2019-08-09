@@ -43,6 +43,109 @@ We used the following model to fit the data:
 **Target Variable DeathRate** - Mean per capita (100,000) cancer mortalities(a)
 
 
+<table>
+<colgroup>
+<col width="26%" />
+<col width="30%" />
+<col width="42%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">Equation Variable</th>
+<th align="center">Variables</th>
+<th align="center">Defintion</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">X_1</td>
+<td align="center">incidencerate</td>
+<td align="center">Mean per capita (100,000) cancer diagoses</td>
+</tr>
+<tr class="even">
+<td align="center">X_2</td>
+<td align="center">povertypercent</td>
+<td align="center">Percent of populace in poverty</td>
+</tr>
+<tr class="odd">
+<td align="center">X_3</td>
+<td align="center">pctwhite</td>
+<td align="center">Percent of county residents who identify as White</td>
+</tr>
+<tr class="even">
+<td align="center">X_4</td>
+<td align="center">pctblack</td>
+<td align="center">Percent of county residents who identify as Black</td>
+</tr>
+<tr class="odd">
+<td align="center">X_5</td>
+<td align="center">pctasian</td>
+<td align="center">Percent of county residents who identify as Asian</td>
+</tr>
+<tr class="even">
+<td align="center">X_6</td>
+<td align="center">pctotherrace</td>
+<td align="center">Percent of county residents who identify in a category which is not White, Black, or Asian</td>
+</tr>
+<tr class="odd">
+<td align="center">X_7</td>
+<td align="center">pctnohs18_24</td>
+<td align="center">Percent of county residents ages 18-24 highest education attained: less than high school</td>
+</tr>
+<tr class="even">
+<td align="center">X_8</td>
+<td align="center">pcths18_24</td>
+<td align="center">Percent of county residents ages 18-24 highest education attained: high school diploma</td>
+</tr>
+<tr class="odd">
+<td align="center">X_9</td>
+<td align="center">pctbachdeg18_24</td>
+<td align="center">Percent of county residents ages 18-24 highest education attained: bachelorâs degree</td>
+</tr>
+<tr class="even">
+<td align="center">X_10</td>
+<td align="center">pcths25_over</td>
+<td align="center">Percent of county residents ages 25 and over highest education attained: high school diploma</td>
+</tr>
+<tr class="odd">
+<td align="center">X_11</td>
+<td align="center">pctbachdeg25_over</td>
+<td align="center">Percent of county residents ages 25 and over highest education attained: bachelorâs degree</td>
+</tr>
+<tr class="even">
+<td align="center">X_12</td>
+<td align="center">percentmarried</td>
+<td align="center">Percent of county residents who are married</td>
+</tr>
+<tr class="odd">
+<td align="center">X_13</td>
+<td align="center">pctunemployed16_over</td>
+<td align="center">Percent of county residents ages 16 and over unemployed</td>
+</tr>
+<tr class="even">
+<td align="center">X_14</td>
+<td align="center">pctempprivcoverage</td>
+<td align="center">Percent of county residents with private health coverage</td>
+</tr>
+<tr class="odd">
+<td align="center">X_15</td>
+<td align="center">pctpubliccoverage</td>
+<td align="center">Percent of county residents with government-provided health coverage</td>
+</tr>
+<tr class="even">
+<td align="center">X_16</td>
+<td align="center">medianage</td>
+<td align="center">Median age of county residents</td>
+</tr>
+<tr class="odd">
+<td align="center">X_17</td>
+<td align="center">medincome</td>
+<td align="center">Median income per county</td>
+</tr>
+</tbody>
+</table>
+
+
 
 
 
